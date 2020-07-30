@@ -8,7 +8,7 @@ import org.csource.fastdfs.TrackerServer;
 
 /**
  * @Description
- * @Author shichao.chen
+ * @Author csc
  * @Date 2019/9/11 16:51
  * @Version 1.0
  **/

@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 
 /**
  * @Description
- * @Author shichao.chen
+ * @Author csc
  * @Date 2019/9/12 15:01
  * @Version 1.0
  **/
@@ -16,7 +16,7 @@ public class FileDFSClientTest {
     private static Logger logger = LoggerFactory.getLogger(FileDFSClientTest.class);
 
     private FastDFSClient fastDFSClient = new FastDFSClient();
-    private String path = "C:\\file\\csc\\note\\730378_154.jpg";
+    private String path = "C:\\file\\csc\\note\\test.jpg";
     private String path1 = "C:\\file\\csc\\note\\test1.jpg";
     @Test
     public void upload() throws FastDFSException {
